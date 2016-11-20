@@ -1,0 +1,43 @@
+.grid {
+	font-family: 'Amatica SC', cursive;
+	font-size: 175%;
+}
+
+body {
+	background-color: #384259;
+
+}
+
+.loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: #c4edde url('../image/sushi.gif') no-repeat fixed center;
+}
+
+.header {
+  font-family: 'Amatica SC', cursive;
+  font-size: 500%;
+  color: #f73859;
+}
+
+.subtitle, 
+.form-horizontal {
+  font-family: 'Amatica SC', cursive;
+  font-size: 300%;
+  color: #f73859;
+}
+
+.form-horizontal {
+  font-size: 150%;
+}
+
+legend {
+  color: #fff;
+}
+
+
+
