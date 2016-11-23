@@ -25,6 +25,7 @@ legend {
 }
 
 .theme {
+  text-align: center;
   background-color: white;
   color: black;
   font-family: 'Amatica SC', cursive;
