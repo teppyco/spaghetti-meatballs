@@ -21,11 +21,27 @@
 }
 
 legend {
-  color: #fff;
+  color: #f73859;
 }
 
 .theme {
   background-color: white;
   color: black;
 }
+
+.websitetitle {
+  text-align: center;
+  padding-right: 70px;
+  padding-left: 70px;
+  padding-top: 100px;
+  padding-bottom: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+hr {
+  width: 70%;
+  border-color: black;
+}
+
 
