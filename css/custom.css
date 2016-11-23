@@ -27,6 +27,7 @@ legend {
 .theme {
   background-color: white;
   color: black;
+  font-family: 'Amatica SC', cursive;
 }
 
 .websitetitle {
@@ -44,4 +45,7 @@ hr {
   border-color: black;
 }
 
-
+.restoimage {
+  width: 700px;
+  height: 500px;
+}
