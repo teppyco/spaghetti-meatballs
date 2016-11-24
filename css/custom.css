@@ -55,5 +55,8 @@ hr {
     width: 100%;
 }
 
+.carousel-indicators li { 
+  visibility: hidden; 
+}
 
 
